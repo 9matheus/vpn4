@@ -1,0 +1,9 @@
+<svg width="228" height="228" viewBox="0 0 228 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Combined Shape Copy 2" fill-rule="evenodd" clip-rule="evenodd" d="M114 228C176.96 228 228 176.96 228 114C228 51.0395 176.96 0 114 0C51.0395 0 0 51.0395 0 114C0 176.96 51.0395 228 114 228ZM111.745 158.262C107.299 162.708 100.117 162.708 95.6708 158.262L71.7308 134.436C67.2848 129.99 67.2848 122.808 71.7308 118.362C76.1768 113.916 83.3588 113.916 87.8048 118.362L103.651 134.208L154.723 83.1363C159.169 78.6903 166.351 78.6903 170.797 83.1363C175.243 87.5823 175.243 94.7643 170.797 99.2103L111.745 158.262Z" fill="url(#paint0_linear_244_9249)"/>
+<defs>
+<linearGradient id="paint0_linear_244_9249" x1="114" y1="0" x2="114" y2="228" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A3B657"/>
+<stop offset="1" stop-color="#57B660"/>
+</linearGradient>
+</defs>
+</svg>

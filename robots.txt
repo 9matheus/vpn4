@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://clearvpn.com/
+
+# Sitemaps
+Sitemap: https://clearvpn.com/sitemap.xml
+Sitemap: https://clearvpn.com/blog/sitemap.xml
